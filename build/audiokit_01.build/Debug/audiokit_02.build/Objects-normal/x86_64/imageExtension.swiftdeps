@@ -1,0 +1,544 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["CSo7NSImage", ""]
+- ["CSo7NSImage", "imageRotatedByDegreess"]
+provides-dynamic-lookup:
+- "imageRotatedByDegreess"
+depends-top-level:
+- !private "NSAffineTransform"
+- !private "NSZeroPoint"
+- !private "NSHeight"
+- !private "NSZeroRect"
+- !private "-"
+- !private "NSWidth"
+- !private "+"
+- "NSImage"
+- !private "/"
+- "CGFloat"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- !private "AffineTransform"
+- !private "NSCompositingOperation"
+- !private "NSBezierPath"
+- !private "NSRect"
+- !private "NSMakeRect"
+- !private "NSMidX"
+- !private "NSMidY"
+depends-member:
+- ["V10Foundation15AffineTransform", "deinit"]
+- !private ["Ps9AnyObject", "NSAffineTransform"]
+- !private ["Ps9AnyObject", "NSBezierPath"]
+- !private ["Ps9AnyObject", "NSCompositingOperation"]
+- !private ["Ps9AnyObject", "NSHeight"]
+- !private ["Ps9AnyObject", "NSImage"]
+- !private ["Ps9AnyObject", "NSMakeRect"]
+- !private ["Ps9AnyObject", "NSMidX"]
+- !private ["Ps9AnyObject", "NSMidY"]
+- !private ["Ps9AnyObject", "NSWidth"]
+- !private ["Ps9AnyObject", "NSZeroPoint"]
+- !private ["Ps9AnyObject", "NSZeroRect"]
+- !private ["Ps9AnyObject", "concat"]
+- !private ["Ps9AnyObject", "draw"]
+- ["Ps9AnyObject", "imageRotatedByDegreess"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "lockFocus"]
+- !private ["Ps9AnyObject", "rotate"]
+- !private ["Ps9AnyObject", "size"]
+- !private ["Ps9AnyObject", "transform"]
+- !private ["Ps9AnyObject", "translateX"]
+- !private ["Ps9AnyObject", "unlockFocus"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC7CGPoint", "deinit"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- ["VSC6CGRect", "deinit"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- ["VSC6CGSize", "deinit"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "width"]
+- !private ["Ps7CVarArg", "NSAffineTransform"]
+- !private ["Ps7CVarArg", "NSBezierPath"]
+- !private ["Ps7CVarArg", "NSCompositingOperation"]
+- !private ["Ps7CVarArg", "NSHeight"]
+- !private ["Ps7CVarArg", "NSImage"]
+- !private ["Ps7CVarArg", "NSMakeRect"]
+- !private ["Ps7CVarArg", "NSMidX"]
+- !private ["Ps7CVarArg", "NSMidY"]
+- !private ["Ps7CVarArg", "NSWidth"]
+- !private ["Ps7CVarArg", "NSZeroPoint"]
+- !private ["Ps7CVarArg", "NSZeroRect"]
+- !private ["Ps7CVarArg", "concat"]
+- !private ["Ps7CVarArg", "draw"]
+- ["Ps7CVarArg", "imageRotatedByDegreess"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "lockFocus"]
+- !private ["Ps7CVarArg", "rotate"]
+- !private ["Ps7CVarArg", "size"]
+- !private ["Ps7CVarArg", "transform"]
+- !private ["Ps7CVarArg", "translateX"]
+- !private ["Ps7CVarArg", "unlockFocus"]
+- !private ["Ps28CustomDebugStringConvertible", "NSAffineTransform"]
+- !private ["Ps28CustomDebugStringConvertible", "NSBezierPath"]
+- !private ["Ps28CustomDebugStringConvertible", "NSCompositingOperation"]
+- !private ["Ps28CustomDebugStringConvertible", "NSHeight"]
+- !private ["Ps28CustomDebugStringConvertible", "NSImage"]
+- !private ["Ps28CustomDebugStringConvertible", "NSMakeRect"]
+- !private ["Ps28CustomDebugStringConvertible", "NSMidX"]
+- !private ["Ps28CustomDebugStringConvertible", "NSMidY"]
+- !private ["Ps28CustomDebugStringConvertible", "NSWidth"]
+- !private ["Ps28CustomDebugStringConvertible", "NSZeroPoint"]
+- !private ["Ps28CustomDebugStringConvertible", "NSZeroRect"]
+- !private ["Ps28CustomDebugStringConvertible", "concat"]
+- !private ["Ps28CustomDebugStringConvertible", "draw"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- ["Ps28CustomDebugStringConvertible", "imageRotatedByDegreess"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lockFocus"]
+- !private ["Ps28CustomDebugStringConvertible", "origin"]
+- !private ["Ps28CustomDebugStringConvertible", "rotate"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "transform"]
+- !private ["Ps28CustomDebugStringConvertible", "translateX"]
+- !private ["Ps28CustomDebugStringConvertible", "unlockFocus"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "origin"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "x"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "y"]
+- !private ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "origin"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "width"]
+- !private ["Ps17CustomReflectable", "x"]
+- !private ["Ps17CustomReflectable", "y"]
+- !private ["Ps23CustomStringConvertible", "NSAffineTransform"]
+- !private ["Ps23CustomStringConvertible", "NSBezierPath"]
+- !private ["Ps23CustomStringConvertible", "NSCompositingOperation"]
+- !private ["Ps23CustomStringConvertible", "NSHeight"]
+- !private ["Ps23CustomStringConvertible", "NSImage"]
+- !private ["Ps23CustomStringConvertible", "NSMakeRect"]
+- !private ["Ps23CustomStringConvertible", "NSMidX"]
+- !private ["Ps23CustomStringConvertible", "NSMidY"]
+- !private ["Ps23CustomStringConvertible", "NSWidth"]
+- !private ["Ps23CustomStringConvertible", "NSZeroPoint"]
+- !private ["Ps23CustomStringConvertible", "NSZeroRect"]
+- !private ["Ps23CustomStringConvertible", "concat"]
+- !private ["Ps23CustomStringConvertible", "draw"]
+- ["Ps23CustomStringConvertible", "imageRotatedByDegreess"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lockFocus"]
+- !private ["Ps23CustomStringConvertible", "rotate"]
+- !private ["Ps23CustomStringConvertible", "size"]
+- !private ["Ps23CustomStringConvertible", "transform"]
+- !private ["Ps23CustomStringConvertible", "translateX"]
+- !private ["Ps23CustomStringConvertible", "unlockFocus"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "NSAffineTransform"]
+- !private ["Ps9Equatable", "NSBezierPath"]
+- !private ["Ps9Equatable", "NSCompositingOperation"]
+- !private ["Ps9Equatable", "NSHeight"]
+- !private ["Ps9Equatable", "NSImage"]
+- !private ["Ps9Equatable", "NSMakeRect"]
+- !private ["Ps9Equatable", "NSMidX"]
+- !private ["Ps9Equatable", "NSMidY"]
+- !private ["Ps9Equatable", "NSWidth"]
+- !private ["Ps9Equatable", "NSZeroPoint"]
+- !private ["Ps9Equatable", "NSZeroRect"]
+- !private ["Ps9Equatable", "concat"]
+- !private ["Ps9Equatable", "copy"]
+- !private ["Ps9Equatable", "draw"]
+- !private ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "imageRotatedByDegreess"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lockFocus"]
+- !private ["Ps9Equatable", "origin"]
+- !private ["Ps9Equatable", "rotate"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "transform"]
+- !private ["Ps9Equatable", "translateX"]
+- !private ["Ps9Equatable", "unlockFocus"]
+- !private ["Ps9Equatable", "width"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- !private ["Sf", "deinit"]
+- !private ["Vs7Float80", "deinit"]
+- !private ["Ps8Hashable", "NSAffineTransform"]
+- !private ["Ps8Hashable", "NSBezierPath"]
+- !private ["Ps8Hashable", "NSCompositingOperation"]
+- !private ["Ps8Hashable", "NSHeight"]
+- !private ["Ps8Hashable", "NSImage"]
+- !private ["Ps8Hashable", "NSMakeRect"]
+- !private ["Ps8Hashable", "NSMidX"]
+- !private ["Ps8Hashable", "NSMidY"]
+- !private ["Ps8Hashable", "NSWidth"]
+- !private ["Ps8Hashable", "NSZeroPoint"]
+- !private ["Ps8Hashable", "NSZeroRect"]
+- !private ["Ps8Hashable", "concat"]
+- !private ["Ps8Hashable", "copy"]
+- !private ["Ps8Hashable", "draw"]
+- ["Ps8Hashable", "imageRotatedByDegreess"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "lockFocus"]
+- !private ["Ps8Hashable", "rotate"]
+- !private ["Ps8Hashable", "size"]
+- !private ["Ps8Hashable", "transform"]
+- !private ["Ps8Hashable", "translateX"]
+- !private ["Ps8Hashable", "unlockFocus"]
+- !private ["CSo17NSAffineTransform", "concat"]
+- ["CSo17NSAffineTransform", "deinit"]
+- !private ["CSo17NSAffineTransform", "init"]
+- !private ["CSo17NSAffineTransform", "rotate"]
+- !private ["CSo17NSAffineTransform", "translateX"]
+- ["CSo12NSBezierPath", "deinit"]
+- !private ["CSo12NSBezierPath", "init"]
+- !private ["CSo12NSBezierPath", "transform"]
+- !private ["PSo8NSCoding", "NSAffineTransform"]
+- !private ["PSo8NSCoding", "NSBezierPath"]
+- !private ["PSo8NSCoding", "NSCompositingOperation"]
+- !private ["PSo8NSCoding", "NSHeight"]
+- !private ["PSo8NSCoding", "NSImage"]
+- !private ["PSo8NSCoding", "NSMakeRect"]
+- !private ["PSo8NSCoding", "NSMidX"]
+- !private ["PSo8NSCoding", "NSMidY"]
+- !private ["PSo8NSCoding", "NSWidth"]
+- !private ["PSo8NSCoding", "NSZeroPoint"]
+- !private ["PSo8NSCoding", "NSZeroRect"]
+- !private ["PSo8NSCoding", "concat"]
+- !private ["PSo8NSCoding", "draw"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "lockFocus"]
+- !private ["PSo8NSCoding", "rotate"]
+- !private ["PSo8NSCoding", "size"]
+- !private ["PSo8NSCoding", "transform"]
+- !private ["PSo8NSCoding", "translateX"]
+- !private ["PSo8NSCoding", "unlockFocus"]
+- !private ["OSC22NSCompositingOperation", "copy"]
+- ["OSC22NSCompositingOperation", "deinit"]
+- !private ["PSo9NSCopying", "NSAffineTransform"]
+- !private ["PSo9NSCopying", "NSBezierPath"]
+- !private ["PSo9NSCopying", "NSCompositingOperation"]
+- !private ["PSo9NSCopying", "NSHeight"]
+- !private ["PSo9NSCopying", "NSImage"]
+- !private ["PSo9NSCopying", "NSMakeRect"]
+- !private ["PSo9NSCopying", "NSMidX"]
+- !private ["PSo9NSCopying", "NSMidY"]
+- !private ["PSo9NSCopying", "NSWidth"]
+- !private ["PSo9NSCopying", "NSZeroPoint"]
+- !private ["PSo9NSCopying", "NSZeroRect"]
+- !private ["PSo9NSCopying", "concat"]
+- !private ["PSo9NSCopying", "draw"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "lockFocus"]
+- !private ["PSo9NSCopying", "rotate"]
+- !private ["PSo9NSCopying", "size"]
+- !private ["PSo9NSCopying", "transform"]
+- !private ["PSo9NSCopying", "translateX"]
+- !private ["PSo9NSCopying", "unlockFocus"]
+- !private ["CSo7NSImage", "AffineTransform"]
+- ["CSo7NSImage", "CGFloat"]
+- !private ["CSo7NSImage", "NSAffineTransform"]
+- !private ["CSo7NSImage", "NSBezierPath"]
+- !private ["CSo7NSImage", "NSCompositingOperation"]
+- !private ["CSo7NSImage", "NSHeight"]
+- ["CSo7NSImage", "NSImage"]
+- !private ["CSo7NSImage", "NSMakeRect"]
+- !private ["CSo7NSImage", "NSMidX"]
+- !private ["CSo7NSImage", "NSMidY"]
+- !private ["CSo7NSImage", "NSRect"]
+- !private ["CSo7NSImage", "NSWidth"]
+- !private ["CSo7NSImage", "NSZeroPoint"]
+- !private ["CSo7NSImage", "NSZeroRect"]
+- ["CSo7NSImage", "deinit"]
+- !private ["CSo7NSImage", "draw"]
+- ["CSo7NSImage", "imageRotatedByDegreess"]
+- !private ["CSo7NSImage", "init"]
+- !private ["CSo7NSImage", "lockFocus"]
+- !private ["CSo7NSImage", "size"]
+- !private ["CSo7NSImage", "unlockFocus"]
+- !private ["CSo8NSObject", "AffineTransform"]
+- ["CSo8NSObject", "CGFloat"]
+- !private ["CSo8NSObject", "NSAffineTransform"]
+- !private ["CSo8NSObject", "NSBezierPath"]
+- !private ["CSo8NSObject", "NSCompositingOperation"]
+- !private ["CSo8NSObject", "NSHeight"]
+- ["CSo8NSObject", "NSImage"]
+- !private ["CSo8NSObject", "NSMakeRect"]
+- !private ["CSo8NSObject", "NSMidX"]
+- !private ["CSo8NSObject", "NSMidY"]
+- !private ["CSo8NSObject", "NSRect"]
+- !private ["CSo8NSObject", "NSWidth"]
+- !private ["CSo8NSObject", "NSZeroPoint"]
+- !private ["CSo8NSObject", "NSZeroRect"]
+- !private ["CSo8NSObject", "concat"]
+- !private ["CSo8NSObject", "draw"]
+- ["CSo8NSObject", "imageRotatedByDegreess"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lockFocus"]
+- !private ["CSo8NSObject", "rotate"]
+- !private ["CSo8NSObject", "size"]
+- !private ["CSo8NSObject", "transform"]
+- !private ["CSo8NSObject", "translateX"]
+- !private ["CSo8NSObject", "unlockFocus"]
+- !private ["PSo16NSObjectProtocol", "NSAffineTransform"]
+- !private ["PSo16NSObjectProtocol", "NSBezierPath"]
+- !private ["PSo16NSObjectProtocol", "NSCompositingOperation"]
+- !private ["PSo16NSObjectProtocol", "NSHeight"]
+- !private ["PSo16NSObjectProtocol", "NSImage"]
+- !private ["PSo16NSObjectProtocol", "NSMakeRect"]
+- !private ["PSo16NSObjectProtocol", "NSMidX"]
+- !private ["PSo16NSObjectProtocol", "NSMidY"]
+- !private ["PSo16NSObjectProtocol", "NSWidth"]
+- !private ["PSo16NSObjectProtocol", "NSZeroPoint"]
+- !private ["PSo16NSObjectProtocol", "NSZeroRect"]
+- !private ["PSo16NSObjectProtocol", "concat"]
+- !private ["PSo16NSObjectProtocol", "draw"]
+- ["PSo16NSObjectProtocol", "imageRotatedByDegreess"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lockFocus"]
+- !private ["PSo16NSObjectProtocol", "rotate"]
+- !private ["PSo16NSObjectProtocol", "size"]
+- !private ["PSo16NSObjectProtocol", "transform"]
+- !private ["PSo16NSObjectProtocol", "translateX"]
+- !private ["PSo16NSObjectProtocol", "unlockFocus"]
+- !private ["PSo19NSPasteboardReading", "NSAffineTransform"]
+- !private ["PSo19NSPasteboardReading", "NSBezierPath"]
+- !private ["PSo19NSPasteboardReading", "NSCompositingOperation"]
+- !private ["PSo19NSPasteboardReading", "NSHeight"]
+- !private ["PSo19NSPasteboardReading", "NSImage"]
+- !private ["PSo19NSPasteboardReading", "NSMakeRect"]
+- !private ["PSo19NSPasteboardReading", "NSMidX"]
+- !private ["PSo19NSPasteboardReading", "NSMidY"]
+- !private ["PSo19NSPasteboardReading", "NSWidth"]
+- !private ["PSo19NSPasteboardReading", "NSZeroPoint"]
+- !private ["PSo19NSPasteboardReading", "NSZeroRect"]
+- !private ["PSo19NSPasteboardReading", "draw"]
+- !private ["PSo19NSPasteboardReading", "init"]
+- !private ["PSo19NSPasteboardReading", "lockFocus"]
+- !private ["PSo19NSPasteboardReading", "size"]
+- !private ["PSo19NSPasteboardReading", "unlockFocus"]
+- !private ["PSo19NSPasteboardWriting", "NSAffineTransform"]
+- !private ["PSo19NSPasteboardWriting", "NSBezierPath"]
+- !private ["PSo19NSPasteboardWriting", "NSCompositingOperation"]
+- !private ["PSo19NSPasteboardWriting", "NSHeight"]
+- !private ["PSo19NSPasteboardWriting", "NSImage"]
+- !private ["PSo19NSPasteboardWriting", "NSMakeRect"]
+- !private ["PSo19NSPasteboardWriting", "NSMidX"]
+- !private ["PSo19NSPasteboardWriting", "NSMidY"]
+- !private ["PSo19NSPasteboardWriting", "NSWidth"]
+- !private ["PSo19NSPasteboardWriting", "NSZeroPoint"]
+- !private ["PSo19NSPasteboardWriting", "NSZeroRect"]
+- !private ["PSo19NSPasteboardWriting", "draw"]
+- !private ["PSo19NSPasteboardWriting", "init"]
+- !private ["PSo19NSPasteboardWriting", "lockFocus"]
+- !private ["PSo19NSPasteboardWriting", "size"]
+- !private ["PSo19NSPasteboardWriting", "unlockFocus"]
+- !private ["PSo14NSSecureCoding", "NSAffineTransform"]
+- !private ["PSo14NSSecureCoding", "NSBezierPath"]
+- !private ["PSo14NSSecureCoding", "NSCompositingOperation"]
+- !private ["PSo14NSSecureCoding", "NSHeight"]
+- !private ["PSo14NSSecureCoding", "NSImage"]
+- !private ["PSo14NSSecureCoding", "NSMakeRect"]
+- !private ["PSo14NSSecureCoding", "NSMidX"]
+- !private ["PSo14NSSecureCoding", "NSMidY"]
+- !private ["PSo14NSSecureCoding", "NSWidth"]
+- !private ["PSo14NSSecureCoding", "NSZeroPoint"]
+- !private ["PSo14NSSecureCoding", "NSZeroRect"]
+- !private ["PSo14NSSecureCoding", "concat"]
+- !private ["PSo14NSSecureCoding", "draw"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "lockFocus"]
+- !private ["PSo14NSSecureCoding", "rotate"]
+- !private ["PSo14NSSecureCoding", "size"]
+- !private ["PSo14NSSecureCoding", "translateX"]
+- !private ["PSo14NSSecureCoding", "unlockFocus"]
+- !private ["Ps16RawRepresentable", "copy"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSAffineTransform"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSBezierPath"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSCompositingOperation"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSHeight"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSImage"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSMakeRect"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSMidX"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSMidY"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSWidth"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSZeroPoint"]
+- !private ["Ps26_ExpressibleByImageLiteral", "NSZeroRect"]
+- !private ["Ps26_ExpressibleByImageLiteral", "draw"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "lockFocus"]
+- !private ["Ps26_ExpressibleByImageLiteral", "size"]
+- !private ["Ps26_ExpressibleByImageLiteral", "unlockFocus"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "concat"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "rotate"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "translateX"]
+- !private ["Ps9_Hashable", "NSAffineTransform"]
+- !private ["Ps9_Hashable", "NSBezierPath"]
+- !private ["Ps9_Hashable", "NSCompositingOperation"]
+- !private ["Ps9_Hashable", "NSHeight"]
+- !private ["Ps9_Hashable", "NSImage"]
+- !private ["Ps9_Hashable", "NSMakeRect"]
+- !private ["Ps9_Hashable", "NSMidX"]
+- !private ["Ps9_Hashable", "NSMidY"]
+- !private ["Ps9_Hashable", "NSWidth"]
+- !private ["Ps9_Hashable", "NSZeroPoint"]
+- !private ["Ps9_Hashable", "NSZeroRect"]
+- !private ["Ps9_Hashable", "concat"]
+- !private ["Ps9_Hashable", "copy"]
+- !private ["Ps9_Hashable", "draw"]
+- ["Ps9_Hashable", "imageRotatedByDegreess"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "lockFocus"]
+- !private ["Ps9_Hashable", "rotate"]
+- !private ["Ps9_Hashable", "size"]
+- !private ["Ps9_Hashable", "transform"]
+- !private ["Ps9_Hashable", "translateX"]
+- !private ["Ps9_Hashable", "unlockFocus"]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "origin"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+- !private ["Ps21_ObjectiveCBridgeable", "x"]
+- !private ["Ps21_ObjectiveCBridgeable", "y"]
+depends-nominal:
+- "V10Foundation15AffineTransform"
+- "Ps9AnyObject"
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "VSC6CGRect"
+- "VSC6CGSize"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Sf"
+- !private "Vs7Float80"
+- "Ps8Hashable"
+- "CSo17NSAffineTransform"
+- "CSo12NSBezierPath"
+- !private "PSo8NSCoding"
+- "OSC22NSCompositingOperation"
+- !private "PSo9NSCopying"
+- "CSo7NSImage"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo19NSPasteboardReading"
+- !private "PSo19NSPasteboardWriting"
+- !private "PSo14NSSecureCoding"
+- !private "Ps16RawRepresentable"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreAudio.swiftmodule"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAudioUnitType.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/simd.swiftmodule"
+interface-hash: "c567565295052ee2d24f798dd5e6b6b8"

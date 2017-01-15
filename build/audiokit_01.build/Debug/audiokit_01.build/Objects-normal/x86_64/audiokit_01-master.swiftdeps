@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "6916f6a46026d5513a5e289c67e67ac3"
+build_time: [537763155, 483059000]
+inputs:
+  "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_01/audiokit_01/imageExtension.swift": [537761788, 0]
+  "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_01/audiokit_01/ViewController.swift": [537763035, 0]
+  "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_01/audiokit_01/AppDelegate.swift": [537761734, 0]

@@ -1,0 +1,396 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C11audiokit_0211AppDelegate"
+provides-member:
+- ["C11audiokit_0211AppDelegate", ""]
+provides-dynamic-lookup:
+- "applicationDidFinishLaunching"
+- "applicationWillTerminate"
+depends-top-level:
+- "NSApplicationDelegate"
+- "AppDelegate"
+- "Notification"
+- "NSObject"
+depends-member:
+- ["Ps9AnyObject", "application"]
+- ["Ps9AnyObject", "applicationDidBecomeActive"]
+- ["Ps9AnyObject", "applicationDidChangeOcclusionState"]
+- ["Ps9AnyObject", "applicationDidChangeScreenParameters"]
+- ["Ps9AnyObject", "applicationDidFinishLaunching"]
+- ["Ps9AnyObject", "applicationDidHide"]
+- ["Ps9AnyObject", "applicationDidResignActive"]
+- ["Ps9AnyObject", "applicationDidUnhide"]
+- ["Ps9AnyObject", "applicationDidUpdate"]
+- ["Ps9AnyObject", "applicationDockMenu"]
+- ["Ps9AnyObject", "applicationOpenUntitledFile"]
+- ["Ps9AnyObject", "applicationShouldHandleReopen"]
+- ["Ps9AnyObject", "applicationShouldOpenUntitledFile"]
+- ["Ps9AnyObject", "applicationShouldTerminate"]
+- ["Ps9AnyObject", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps9AnyObject", "applicationWillBecomeActive"]
+- ["Ps9AnyObject", "applicationWillFinishLaunching"]
+- ["Ps9AnyObject", "applicationWillHide"]
+- ["Ps9AnyObject", "applicationWillResignActive"]
+- ["Ps9AnyObject", "applicationWillTerminate"]
+- ["Ps9AnyObject", "applicationWillUnhide"]
+- ["Ps9AnyObject", "applicationWillUpdate"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- ["C11audiokit_0211AppDelegate", "Notification"]
+- ["C11audiokit_0211AppDelegate", "application"]
+- ["C11audiokit_0211AppDelegate", "applicationDidBecomeActive"]
+- ["C11audiokit_0211AppDelegate", "applicationDidChangeOcclusionState"]
+- ["C11audiokit_0211AppDelegate", "applicationDidChangeScreenParameters"]
+- ["C11audiokit_0211AppDelegate", "applicationDidFinishLaunching"]
+- ["C11audiokit_0211AppDelegate", "applicationDidHide"]
+- ["C11audiokit_0211AppDelegate", "applicationDidResignActive"]
+- ["C11audiokit_0211AppDelegate", "applicationDidUnhide"]
+- ["C11audiokit_0211AppDelegate", "applicationDidUpdate"]
+- ["C11audiokit_0211AppDelegate", "applicationDockMenu"]
+- ["C11audiokit_0211AppDelegate", "applicationOpenUntitledFile"]
+- ["C11audiokit_0211AppDelegate", "applicationShouldHandleReopen"]
+- ["C11audiokit_0211AppDelegate", "applicationShouldOpenUntitledFile"]
+- ["C11audiokit_0211AppDelegate", "applicationShouldTerminate"]
+- ["C11audiokit_0211AppDelegate", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["C11audiokit_0211AppDelegate", "applicationWillBecomeActive"]
+- ["C11audiokit_0211AppDelegate", "applicationWillFinishLaunching"]
+- ["C11audiokit_0211AppDelegate", "applicationWillHide"]
+- ["C11audiokit_0211AppDelegate", "applicationWillResignActive"]
+- ["C11audiokit_0211AppDelegate", "applicationWillTerminate"]
+- ["C11audiokit_0211AppDelegate", "applicationWillUnhide"]
+- ["C11audiokit_0211AppDelegate", "applicationWillUpdate"]
+- ["C11audiokit_0211AppDelegate", "deinit"]
+- ["C11audiokit_0211AppDelegate", "init"]
+- ["Ps7CVarArg", "application"]
+- ["Ps7CVarArg", "applicationDidBecomeActive"]
+- ["Ps7CVarArg", "applicationDidChangeOcclusionState"]
+- ["Ps7CVarArg", "applicationDidChangeScreenParameters"]
+- ["Ps7CVarArg", "applicationDidFinishLaunching"]
+- ["Ps7CVarArg", "applicationDidHide"]
+- ["Ps7CVarArg", "applicationDidResignActive"]
+- ["Ps7CVarArg", "applicationDidUnhide"]
+- ["Ps7CVarArg", "applicationDidUpdate"]
+- ["Ps7CVarArg", "applicationDockMenu"]
+- ["Ps7CVarArg", "applicationOpenUntitledFile"]
+- ["Ps7CVarArg", "applicationShouldHandleReopen"]
+- ["Ps7CVarArg", "applicationShouldOpenUntitledFile"]
+- ["Ps7CVarArg", "applicationShouldTerminate"]
+- ["Ps7CVarArg", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps7CVarArg", "applicationWillBecomeActive"]
+- ["Ps7CVarArg", "applicationWillFinishLaunching"]
+- ["Ps7CVarArg", "applicationWillHide"]
+- ["Ps7CVarArg", "applicationWillResignActive"]
+- ["Ps7CVarArg", "applicationWillTerminate"]
+- ["Ps7CVarArg", "applicationWillUnhide"]
+- ["Ps7CVarArg", "applicationWillUpdate"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "application"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidChangeOcclusionState"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidChangeScreenParameters"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidHide"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidUnhide"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidUpdate"]
+- ["Ps28CustomDebugStringConvertible", "applicationDockMenu"]
+- ["Ps28CustomDebugStringConvertible", "applicationOpenUntitledFile"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldHandleReopen"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldOpenUntitledFile"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldTerminate"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillHide"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillTerminate"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillUnhide"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillUpdate"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "application"]
+- ["Ps23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationDidChangeOcclusionState"]
+- ["Ps23CustomStringConvertible", "applicationDidChangeScreenParameters"]
+- ["Ps23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationDidHide"]
+- ["Ps23CustomStringConvertible", "applicationDidResignActive"]
+- ["Ps23CustomStringConvertible", "applicationDidUnhide"]
+- ["Ps23CustomStringConvertible", "applicationDidUpdate"]
+- ["Ps23CustomStringConvertible", "applicationDockMenu"]
+- ["Ps23CustomStringConvertible", "applicationOpenUntitledFile"]
+- ["Ps23CustomStringConvertible", "applicationShouldHandleReopen"]
+- ["Ps23CustomStringConvertible", "applicationShouldOpenUntitledFile"]
+- ["Ps23CustomStringConvertible", "applicationShouldTerminate"]
+- ["Ps23CustomStringConvertible", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps23CustomStringConvertible", "applicationWillBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationWillFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationWillHide"]
+- ["Ps23CustomStringConvertible", "applicationWillResignActive"]
+- ["Ps23CustomStringConvertible", "applicationWillTerminate"]
+- ["Ps23CustomStringConvertible", "applicationWillUnhide"]
+- ["Ps23CustomStringConvertible", "applicationWillUpdate"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "application"]
+- ["Ps9Equatable", "applicationDidBecomeActive"]
+- ["Ps9Equatable", "applicationDidChangeOcclusionState"]
+- ["Ps9Equatable", "applicationDidChangeScreenParameters"]
+- ["Ps9Equatable", "applicationDidFinishLaunching"]
+- ["Ps9Equatable", "applicationDidHide"]
+- ["Ps9Equatable", "applicationDidResignActive"]
+- ["Ps9Equatable", "applicationDidUnhide"]
+- ["Ps9Equatable", "applicationDidUpdate"]
+- ["Ps9Equatable", "applicationDockMenu"]
+- ["Ps9Equatable", "applicationOpenUntitledFile"]
+- ["Ps9Equatable", "applicationShouldHandleReopen"]
+- ["Ps9Equatable", "applicationShouldOpenUntitledFile"]
+- ["Ps9Equatable", "applicationShouldTerminate"]
+- ["Ps9Equatable", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps9Equatable", "applicationWillBecomeActive"]
+- ["Ps9Equatable", "applicationWillFinishLaunching"]
+- ["Ps9Equatable", "applicationWillHide"]
+- ["Ps9Equatable", "applicationWillResignActive"]
+- ["Ps9Equatable", "applicationWillTerminate"]
+- ["Ps9Equatable", "applicationWillUnhide"]
+- ["Ps9Equatable", "applicationWillUpdate"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "application"]
+- ["Ps8Hashable", "applicationDidBecomeActive"]
+- ["Ps8Hashable", "applicationDidChangeOcclusionState"]
+- ["Ps8Hashable", "applicationDidChangeScreenParameters"]
+- ["Ps8Hashable", "applicationDidFinishLaunching"]
+- ["Ps8Hashable", "applicationDidHide"]
+- ["Ps8Hashable", "applicationDidResignActive"]
+- ["Ps8Hashable", "applicationDidUnhide"]
+- ["Ps8Hashable", "applicationDidUpdate"]
+- ["Ps8Hashable", "applicationDockMenu"]
+- ["Ps8Hashable", "applicationOpenUntitledFile"]
+- ["Ps8Hashable", "applicationShouldHandleReopen"]
+- ["Ps8Hashable", "applicationShouldOpenUntitledFile"]
+- ["Ps8Hashable", "applicationShouldTerminate"]
+- ["Ps8Hashable", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps8Hashable", "applicationWillBecomeActive"]
+- ["Ps8Hashable", "applicationWillFinishLaunching"]
+- ["Ps8Hashable", "applicationWillHide"]
+- ["Ps8Hashable", "applicationWillResignActive"]
+- ["Ps8Hashable", "applicationWillTerminate"]
+- ["Ps8Hashable", "applicationWillUnhide"]
+- ["Ps8Hashable", "applicationWillUpdate"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- ["PSo21NSApplicationDelegate", "application"]
+- ["PSo21NSApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21NSApplicationDelegate", "applicationDidChangeOcclusionState"]
+- ["PSo21NSApplicationDelegate", "applicationDidChangeScreenParameters"]
+- ["PSo21NSApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21NSApplicationDelegate", "applicationDidHide"]
+- ["PSo21NSApplicationDelegate", "applicationDidResignActive"]
+- ["PSo21NSApplicationDelegate", "applicationDidUnhide"]
+- ["PSo21NSApplicationDelegate", "applicationDidUpdate"]
+- ["PSo21NSApplicationDelegate", "applicationDockMenu"]
+- ["PSo21NSApplicationDelegate", "applicationOpenUntitledFile"]
+- ["PSo21NSApplicationDelegate", "applicationShouldHandleReopen"]
+- ["PSo21NSApplicationDelegate", "applicationShouldOpenUntitledFile"]
+- ["PSo21NSApplicationDelegate", "applicationShouldTerminate"]
+- ["PSo21NSApplicationDelegate", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["PSo21NSApplicationDelegate", "applicationWillBecomeActive"]
+- ["PSo21NSApplicationDelegate", "applicationWillFinishLaunching"]
+- ["PSo21NSApplicationDelegate", "applicationWillHide"]
+- ["PSo21NSApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21NSApplicationDelegate", "applicationWillTerminate"]
+- ["PSo21NSApplicationDelegate", "applicationWillUnhide"]
+- ["PSo21NSApplicationDelegate", "applicationWillUpdate"]
+- ["PSo21NSApplicationDelegate", ""]
+- ["CSo8NSObject", "Notification"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidChangeOcclusionState"]
+- ["CSo8NSObject", "applicationDidChangeScreenParameters"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidHide"]
+- ["CSo8NSObject", "applicationDidResignActive"]
+- ["CSo8NSObject", "applicationDidUnhide"]
+- ["CSo8NSObject", "applicationDidUpdate"]
+- ["CSo8NSObject", "applicationDockMenu"]
+- ["CSo8NSObject", "applicationOpenUntitledFile"]
+- ["CSo8NSObject", "applicationShouldHandleReopen"]
+- ["CSo8NSObject", "applicationShouldOpenUntitledFile"]
+- ["CSo8NSObject", "applicationShouldTerminate"]
+- ["CSo8NSObject", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["CSo8NSObject", "applicationWillBecomeActive"]
+- ["CSo8NSObject", "applicationWillFinishLaunching"]
+- ["CSo8NSObject", "applicationWillHide"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- ["CSo8NSObject", "applicationWillUnhide"]
+- ["CSo8NSObject", "applicationWillUpdate"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidChangeOcclusionState"]
+- ["PSo16NSObjectProtocol", "applicationDidChangeScreenParameters"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidHide"]
+- ["PSo16NSObjectProtocol", "applicationDidResignActive"]
+- ["PSo16NSObjectProtocol", "applicationDidUnhide"]
+- ["PSo16NSObjectProtocol", "applicationDidUpdate"]
+- ["PSo16NSObjectProtocol", "applicationDockMenu"]
+- ["PSo16NSObjectProtocol", "applicationOpenUntitledFile"]
+- ["PSo16NSObjectProtocol", "applicationShouldHandleReopen"]
+- ["PSo16NSObjectProtocol", "applicationShouldOpenUntitledFile"]
+- ["PSo16NSObjectProtocol", "applicationShouldTerminate"]
+- ["PSo16NSObjectProtocol", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["PSo16NSObjectProtocol", "applicationWillBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationWillFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationWillHide"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- ["PSo16NSObjectProtocol", "applicationWillUnhide"]
+- ["PSo16NSObjectProtocol", "applicationWillUpdate"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Ps9_Hashable", "application"]
+- ["Ps9_Hashable", "applicationDidBecomeActive"]
+- ["Ps9_Hashable", "applicationDidChangeOcclusionState"]
+- ["Ps9_Hashable", "applicationDidChangeScreenParameters"]
+- ["Ps9_Hashable", "applicationDidFinishLaunching"]
+- ["Ps9_Hashable", "applicationDidHide"]
+- ["Ps9_Hashable", "applicationDidResignActive"]
+- ["Ps9_Hashable", "applicationDidUnhide"]
+- ["Ps9_Hashable", "applicationDidUpdate"]
+- ["Ps9_Hashable", "applicationDockMenu"]
+- ["Ps9_Hashable", "applicationOpenUntitledFile"]
+- ["Ps9_Hashable", "applicationShouldHandleReopen"]
+- ["Ps9_Hashable", "applicationShouldOpenUntitledFile"]
+- ["Ps9_Hashable", "applicationShouldTerminate"]
+- ["Ps9_Hashable", "applicationShouldTerminateAfterLastWindowClosed"]
+- ["Ps9_Hashable", "applicationWillBecomeActive"]
+- ["Ps9_Hashable", "applicationWillFinishLaunching"]
+- ["Ps9_Hashable", "applicationWillHide"]
+- ["Ps9_Hashable", "applicationWillResignActive"]
+- ["Ps9_Hashable", "applicationWillTerminate"]
+- ["Ps9_Hashable", "applicationWillUnhide"]
+- ["Ps9_Hashable", "applicationWillUpdate"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "C11audiokit_0211AppDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo21NSApplicationDelegate"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Modules/AudioKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreAudio.swiftmodule"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAudioUnitType.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/DevonDeonarine/Library/Mobile Documents/com~apple~CloudDocs/Documents/audiokit_02/AudioKit.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/simd.swiftmodule"
+interface-hash: "670649c469b130807b185fb33c2b33e0"
